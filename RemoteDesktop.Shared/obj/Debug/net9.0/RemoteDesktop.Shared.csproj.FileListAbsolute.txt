@@ -1,0 +1,11 @@
+D:\RemoteDesktop\RemoteDesktop.Shared\bin\Debug\net9.0\RemoteDesktop.Shared.deps.json
+D:\RemoteDesktop\RemoteDesktop.Shared\bin\Debug\net9.0\RemoteDesktop.Shared.dll
+D:\RemoteDesktop\RemoteDesktop.Shared\bin\Debug\net9.0\RemoteDesktop.Shared.pdb
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\RemoteDesktop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\RemoteDesktop.Shared.AssemblyInfoInputs.cache
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\RemoteDesktop.Shared.AssemblyInfo.cs
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\RemoteDesktop.Shared.csproj.CoreCompileInputs.cache
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\RemoteDesktop.Shared.dll
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\refint\RemoteDesktop.Shared.dll
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\RemoteDesktop.Shared.pdb
+D:\RemoteDesktop\RemoteDesktop.Shared\obj\Debug\net9.0\ref\RemoteDesktop.Shared.dll
