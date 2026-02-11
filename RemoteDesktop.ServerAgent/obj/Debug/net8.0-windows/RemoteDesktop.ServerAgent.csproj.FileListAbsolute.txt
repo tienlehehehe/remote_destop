@@ -125,3 +125,4 @@ D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.ServerAgent\obj\Debug\net8.
 D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.ServerAgent\bin\Debug\net8.0-windows\SharpDX.dll
 D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.ServerAgent\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
 D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.ServerAgent\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.ServerAgent\obj\Debug\net8.0-windows\RemoteDesktop.ServerAgent.sourcelink.json

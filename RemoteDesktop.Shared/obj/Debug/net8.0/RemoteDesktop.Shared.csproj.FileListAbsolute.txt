@@ -20,3 +20,4 @@ D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.Shared\obj\Debug\net8.0\Rem
 D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.Shared\obj\Debug\net8.0\refint\RemoteDesktop.Shared.dll
 D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.Shared\obj\Debug\net8.0\RemoteDesktop.Shared.pdb
 D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.Shared\obj\Debug\net8.0\ref\RemoteDesktop.Shared.dll
+D:\RemoteDesktop\remote.desktop.server\RemoteDesktop.Shared\obj\Debug\net8.0\RemoteDesktop.Shared.sourcelink.json
